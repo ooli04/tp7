@@ -1,4 +1,4 @@
-#tp7 : JAXRS / Jersey 
+# tp7 : JAXRS / Jersey 
 
 <img width="762" height="337" alt="img" src="https://github.com/user-attachments/assets/faa9f28a-546d-45aa-9a0c-5f086e477a61" />
 
